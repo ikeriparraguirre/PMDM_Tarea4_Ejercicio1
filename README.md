@@ -1,24 +1,3 @@
-# click_counter
-
-A new Flutter project created with https://flutlab.io
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Discover a marketplace of ready-to-use Flutter projects https://flutlab.io/widgetbay
-- Join the discussion and conversation on https://flutlab.io/residents
-
-If you have some questions regarding FlutLab, you can ask on https://flutlab.io/faq
+# Ejercicio 1
+Esta aplicacion esta compuesta por 4 pantallas diferentes, una en la que se demuestra la fecha, otra en la que al pulsar sobre un boton se abre un dialogo, otra que es switch donde se muestra su estado en un Text y por ultimo un slider con los valores de 0 al 100 y tambien se muestran los valores en un Text.
+Enlace al respositorio de GitHub: https://github.com/ikeriparraguirre/PMDM_Tarea4_Ejercicio1
